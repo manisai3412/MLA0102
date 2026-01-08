@@ -1,5 +1,4 @@
 # MLA0102
-Below are **HUMAN-READABLE (step-by-step) ALGORITHMS** for **DFS, BFS, UCS, and Water Jug Problem**, written in **simple English**, exactly how exam answers are expected.
 
 ---
 
